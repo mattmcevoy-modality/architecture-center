@@ -1,4 +1,4 @@
-# Azure Architecture Center
+# Azure Architecture Centre
 
 Microsoft patterns & practices
 
